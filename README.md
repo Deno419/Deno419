@@ -35,7 +35,7 @@ Education
 Let's Connect!
 - LinkedIn: 
 - Twitter: [Twitter link] (https://www.instagram.com/meet_deno?igsh=MWV5OGFja3M5Mjd3OA==)
-- Email: [email]
+- [Instagram](https://www.instagram.com/meet_deno?igsh=MWV5OGFja3M5Mjd3OA==)
 - [Visit My Website](https://www.example.com)
 
 
