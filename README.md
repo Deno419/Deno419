@@ -36,7 +36,7 @@ Let's Connect!
 - [Visit My LinkedIn](https://www.linkedin.com/in/mustapha-alhaji-bukar-2b3330247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Visit My Reddit](https://www.reddit.com/user/Deno_Xs/?utm_source=share&utm_medium=mweb3x&utm_name=mweb3xcss&utm_term=1&utm_content=share_button)
 - [Visit My Instagram](https://www.instagram.com/meet_deno?igsh=MWV5OGFja3M5Mjd3OA==)
-- [Visit My Website](https://www.example.com)
+- [Visit My Discord](https://canary.discord.com/users/i_deno)
 - [Visit My Telegram](t.me/Deno212)
 
 
