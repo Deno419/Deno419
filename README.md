@@ -14,15 +14,15 @@ Overview
 - 📫 How to reach me: programmerreal1@gmail.com 
 
 Skills
-- 💻 Programming Languages: JavaScript, Java, Kotlin
+- 💻 Programming Languages: JavaScript, Java and others
 - 🔧 Development Frameworks: React, Node.js, Android SDK
-- 📊 Databases: MongoDB, Firebase
+- 📊 Databases: MMySQL, Firebase
 - 🖥️ Operating Systems: Windows, Linux, Android
 
 Projects
-- 🚀 link: A responsive web portfolio built with React and CSS.
-- 📱 link: A mobile app for tracking daily tasks,
-  built using Kotlin and Firebase.
+- 🚀 A responsive web portfolio built with React and CSS.
+- 📱 A mobile app for tracking daily tasks,
+  built using Java and Firebase.
 
 Experience
 - Web Development Intern: Designed and developed
